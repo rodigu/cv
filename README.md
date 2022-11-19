@@ -1,12 +1,11 @@
 #### Rodrigo H. Morais
-
-|                         | **Contact** |                                        |
-|:----------------------- |:-----------:| --------------------------------------:|
-| https://rmorais.itch.io |             | https://linkedin.com/in/RodrigoHMorais |
-| rmoraisu@proton.me      |             |              https://github.com/rodigu | 
+| **Contact**             |                                        |
+|:----------------------- |:--------------------------------------|
+| https://rmorais.itch.io | https://linkedin.com/in/RodrigoHMorais |
+| rmoraisu@proton.me      |       https://github.com/rodigu        |
 ##### Education
-| **PhD in Informatics, University of Illinois at Urbana-Champaign** | Expected Graduation: 2027 |
-| ------------------------------------------------------------------ | -------------------------:|
+| **PhD in Informatics, University of Illinois** | 2022 ~ Today | 
+| ---------------------------------------------- | ------------:|
 ##### Professional and Research Experience
 | ***Information Science Teaching Assistant at UIUC*** | August 2022 ~ Today | 
 | ---------------------------------------------------- | -------------------:|

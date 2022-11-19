@@ -44,7 +44,10 @@
 
   /* Set margins */
   @page {
-    margin: .25in;
+    margin-left: .1in;
+    margin-right: .1in;
+    margin-top: .05in;
+    margin-bottom: .1in;
   }
 
   /* Fonts */
@@ -227,8 +230,9 @@
 
   ul {
     font-size: 12px;
-    padding-top: 0;
+    padding-top: -10px;
     padding-bottom: 0;
+    margin-top: -17px;
   }
 
   :link {
@@ -238,12 +242,20 @@
   th, tr {
     margin-top: 0;
     margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
     font-size: 15px;
   }
   
   td, table, tbody {
-    font-size: 11px;
-    line-height: 12px;
+    font-size: 0;
+    line-height: 6px;
+    margin-top: -3px;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
   }
   
   br {
@@ -257,15 +269,9 @@
   h1, h2, h3, h4, h5, h6 {
     page-break-after:avoid;
     page-break-inside:avoid;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: -8px !important;
+    margin-bottom: 0px !important;
     padding-top: 0px;
-    padding-bottom: 0px;
-  }
-
-  td, table {
-    margin: 0;
-    padding: 0;
   }
 
   p {
