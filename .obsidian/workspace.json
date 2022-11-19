@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1580cace0fa62c72",
+        "id": "68bca71ecc0cf1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "19663b449794703a",
+            "id": "62a0c8174d8cbe6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10b4c8ae115e4a32",
@@ -138,6 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19663b449794703a",
-  "lastOpenFiles": []
+  "active": "62a0c8174d8cbe6c",
+  "lastOpenFiles": [
+    "cv_base.pdf",
+    "linkedin.com/in/RodrigoHMorais.md",
+    "README.md"
+  ]
 }

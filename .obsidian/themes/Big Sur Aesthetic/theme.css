@@ -120,8 +120,10 @@ html, body {
 .markdown-preview-view ul,
 .markdown-preview-view ol,
 .CodeMirror pre.CodeMirror-line {
-    font-size: 18px;
-    line-height: 29px;
+    font-size: 13px;
+    line-height: 20px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .markdown-preview-view hr {

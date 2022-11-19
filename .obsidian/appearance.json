@@ -1,9 +1,12 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "interfaceFontFamily": "Monocraft,scientifica",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "scientifica",
   "theme": "obsidian",
   "accentColor": "",
-  "baseFontSize": 16
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "cv_style"
+  ]
 }
